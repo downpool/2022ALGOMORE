@@ -4,7 +4,8 @@
         "iostream": "cpp",
         "vector": "cpp",
         "algorithm": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "__node_handle": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
