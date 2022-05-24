@@ -5,7 +5,13 @@
         "vector": "cpp",
         "algorithm": "cpp",
         "ios": "cpp",
-        "__node_handle": "cpp"
+        "__node_handle": "cpp",
+        "iosfwd": "cpp",
+        "random": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
