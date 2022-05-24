@@ -9,7 +9,7 @@ vector<int> arr1[M + 1];
 vector<int> arr2[M + 1];
 int visited[N + 1];
 int visited2[N + 1];
-stack<int> st;
+stack<inta> st;
 
 //dfs 두번 사용
 void dfs(int node){
